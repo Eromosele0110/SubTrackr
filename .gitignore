@@ -89,3 +89,7 @@ contracts/migrations/history/*
 !contracts/migrations/history/.gitkeep
 contracts/migrations/snapshots/*
 !contracts/migrations/snapshots/.gitkeep
+
+# Test snapshots
+__snapshots__/
+*.snap
